@@ -1,0 +1,1 @@
+resource.AddFile( "materials/3dblur.vmt" )
